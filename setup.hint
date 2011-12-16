@@ -1,0 +1,5 @@
+category: Audio OCaml
+requires: libpulse0 libpulse-simple0 libpulse-devel ocaml-base
+sdesc: "OCaml PulseAudio bindings"
+ldesc: "This package contains an O'Caml interface for the PulseAudio 
+sound server."
